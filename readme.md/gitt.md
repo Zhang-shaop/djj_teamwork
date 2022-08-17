@@ -16,8 +16,9 @@ git commit -m "git add readme.md"
 ```
 
 ```shell
-git remote add origin "https://github.com/Zhang-shaop/djj_teamwork.git"
+git remote add origin https://github.com/Zhang-shaop/djj_teamwork.git
 ```
+
 ```shell
 git push -u origin master
 ```
