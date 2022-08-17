@@ -21,3 +21,9 @@ git add
 git commit -a -m "zsp"
 ```
 最后在-m之后增加修改信息，这是必要的习惯。
+
++ 查看历史记录
+```shell
+git log
+```
+(<font color='red'>如果控制台出现一大堆信息与end，按q就可以退出，quit即可.</font>)  
