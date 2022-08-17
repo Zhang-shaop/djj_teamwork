@@ -26,4 +26,18 @@ git commit -a -m "zsp"
 ```shell
 git log
 ```
-(<font color='red'>如果控制台出现一大堆信息与end，按q就可以退出，quit即可.</font>)  
+[(<font color='red'>如果控制台出现一大堆信息与end，按q就可以退出，quit即可.</font>) ](https://blog.csdn.net/weixin_39358657/article/details/93469321) 
+***
++ 连接远程仓库
+查看自己有哪些仓库的权限
+```shell
+git remote -v
+```
+连接远程仓库并命名
+```shell
+git remote add your_name1 address
+```
+对于push的时候，可以控制push到哪个库的哪个分支上去
+```shell
+git push your_name1 branch_name
+```
