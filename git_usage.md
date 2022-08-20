@@ -41,3 +41,5 @@ git remote add your_name1 address
 ```shell
 git push your_name1 branch_name
 ```
+
+学会合作使用github
